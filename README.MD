@@ -2,6 +2,9 @@
 
 Rest API for custom motorbikes with node js and mysql
 
-# Article Source
+# How to use the server
 
--   [Article](https://bezkoder.com/node-js-rest-api-express-mysql/)
+-   clone this repository
+-   import bikes-api.sql into your local database server
+-   npm install to install the dependencies
+-   npm start to start the server
